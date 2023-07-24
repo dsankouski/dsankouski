@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm test automation engineer at Veloce.
+In free time I often play with smartphones and Linux
+
+![](https://img.shields.io/github/stars/dsankouski)
+
 <!--
 **dsankouski/dsankouski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
