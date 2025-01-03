@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm test automation engineer at Veloce.
-In free time I often play with smartphones and Linux
+⚡ In free time I often play with smartphones and Linux
 
 ![](https://img.shields.io/github/stars/dsankouski)
 
